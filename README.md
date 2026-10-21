@@ -10,7 +10,7 @@ This repository is the **public, zero-trust verification side**. You do not need
 servers, or MIZAN's word, to check a credential. Everything here re-derives the numbers
 locally, on your machine.
 
-> **Prove the edge. Never reveal the strategy.**
+> **Prove the claim. Never reveal the method.** Check before you pay. Prove to get paid.
 
 - Live engine & registry: **https://mizan.market**
 - Working paper (SSRN): **[Who Counts the Trials? A Committed Trial Ledger for Enforcing the Deflated Sharpe Ratio in Zero-Knowledge](https://ssrn.com/abstract=7187038)**
